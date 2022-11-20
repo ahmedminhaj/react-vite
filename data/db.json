@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        { 
+            "id": 1, 
+            "title": "New Website", 
+            "body": "Start to create new website in react JS.", 
+            "author": "Moitte"
+        },
+        { 
+            "id": 3, 
+            "title": "First Khep Peoject", 
+            "body": "Start to create new website in react JS.", 
+            "author": "Moitte"
+        }
+    ]
+}
